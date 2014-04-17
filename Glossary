@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+	<head>
+                <link type="text/css" rel="stylesheet" href="Stylesheet.css"/>
+		<title>Glossary</title>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width">
+	</head>
+	<body>
+
+            <div class="nav">
+            <table align="center">
+               <thead>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td><a href="index.html">Introduction</a></td>
+                     <td><a href="Restoration.html">Restoration</a></td>
+                     <td><a href="Caring_For_Your_Paintings.html">Caring For Your Paintings</a></td>
+                     <td><a href="Analysis.html">Analysis</a></td>
+                     <td><a href="Authentication.html">Authentication</a></td>
+                     <td><a href="Infestations.html">Infestations</a></td>
+                     <td><a href="Pigments.html">Pigments</a></td>
+                     <td><a href="Glossary.html">Glossary</a></td>
+                     <td><a href="Bibliography.html">Bibliography</a></td>
+                  </tr>
+               </tbody>
+           </table>
+	</div>
+            <div class="Header" style="text-align:center"><h1>Glossary</h1></div>
+        <div class="Body">
+            
+        </div>
+	</body>
+</html>
