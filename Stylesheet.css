@@ -7,19 +7,41 @@ and open the template in the editor.
     Created on : Feb 6, 2014, 4:08:30 PM
     Author     : lunchboxzez1229
 */
-a:visited{
-    color:purple;
-}
 a:hover{
-    color: #cc0000;
-    font-weight: bold;
-    text-decoration: none;
+    color:white;
+    font-weight:bold;
+    text-decoration:none;
+}
+a:visited{
+    color:#e7e4dd;
+    text-decoration:underline;
 }
 a:link{
-    color:blue;
-    text-decoration: none;
+    color:#e7e4dd;
+    text-decoration:none;
 }
-h1{
+h1, h2, h3{
     margin:auto;
+    font-family:helvetica;
+    font-weight:lighter;
+    color:white;
 }
-
+body{
+    background-color:#34a8a5;
+    margin-left:50px;
+    margin-right:50px;
+    margin-bottom:0px;
+    margin-top:50px;
+}
+p, li, figcaption{
+    font-family:helvetica;
+    font-weight:lighter;
+    color:white;
+    margin-left:25px;
+    margin-right:25px;
+}
+html{
+    background-color:#d0c4b6;
+    font-family:helvetica;
+    font-weight:lighter;
+}
