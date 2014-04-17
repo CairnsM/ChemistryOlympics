@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+	<head>
+                <link type="text/css" rel="stylesheet" href="Stylesheet.css"/>
+		<title>Restoration</title>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width">
+	</head>
+	<body>
+
+            <div class="nav">
+            <table align="center">
+               <thead>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td><a href="index.html">Introduction</a></td>
+                     <td><a href="Restoration.html">Restoration</a></td>
+                     <td><a href="Caring_For_Your_Paintings.html">Caring For Your Paintings</a></td>
+                     <td><a href="Analysis.html">Analysis</a></td>
+                     <td><a href="Authentication.html">Authentication</a></td>
+                     <td><a href="Infestations.html">Infestations</a></td>
+                     <td><a href="Pigments.html">Pigments</a></td>
+                     <td><a href="Glossary.html">Glossary</a></td>
+                     <td><a href="Bibliography.html">Bibliography</a></td>
+                  </tr>
+               </tbody>
+           </table>
+	</div>
+            <div class="Header" style="text-align:center"><h1>Restoration</h1></div>
+        <div class="Body">
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The goal of restoring a painting is to remove surface grime and discolored varnish layers, treat or reinforce support, replace “missing portions imitating the original by the sympathetic use of similar pigments or building up fragments of sculpted or moulded areas of an artwork.”<sup><a href="Bibliography.html#Work11">[11]</a></sup> Any restoration work done on a painting should be reversible, and retouching should always be limited to specific areas that need it.<sup><a href="Bibliography.html#Work11">[11]</a></sup></p>
+        </div>
+	</body>
+</html>
